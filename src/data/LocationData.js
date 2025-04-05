@@ -33,22 +33,22 @@ export const travelData = [
     {
       id: "city-2",
       city: "Tokyo, Japan",
-      image: "https://source.unsplash.com/featured/?tokyo,city",
+      image: "https://a.storyblok.com/f/55469/1170x728/686a5d2781/jp_00_tyo_1.jpeg/m/645x0/filters:format(webp)",
       placesToVisit: [
         {
           id: "place-4",
           name: "Tokyo Tower",
-          image: "https://source.unsplash.com/featured/?tokyo-tower"
+          image:"https://i0.wp.com/www.touristjapan.com/wp-content/uploads/2024/03/Sensoji-Tokyo-_-Best-of-Tokyo-Tour-_-1.jpg?fit=2500%2C1666&ssl=1"
         },
         {
           id: "place-5",
           name: "Senso-ji Temple",
-          image: "https://source.unsplash.com/featured/?sensoji"
+          image:"https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2024/05/24/fe0c930b2f824c3e9e534f7d4d67278f_Tokyo_Shibuya_shutterstock_2437239903.jpg"
         },
         {
           id: "place-6",
           name: "Shibuya Crossing",
-          image: "https://source.unsplash.com/featured/?shibuya-crossing"
+          image:"https://cdn.britannica.com/12/20312-050-5B87F001/Department-store-complex-shopping-district-ward-Shibuya.jpg"
         }
       ],
       hotels: [
@@ -64,22 +64,22 @@ export const travelData = [
     {
       id: "city-3",
       city: "New York, USA",
-      image: "https://source.unsplash.com/featured/?new-york,skyline",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/1200px-New_york_times_square-terabass.jpg",
       placesToVisit: [
         {
           id: "place-7",
           name: "Statue of Liberty",
-          image: "https://source.unsplash.com/featured/?statue-of-liberty"
+          image: "https://pix11.com/wp-content/uploads/sites/25/2024/09/Times-Square.jpg?w=1280",
         },
         {
           id: "place-8",
           name: "Central Park",
-          image: "https://source.unsplash.com/featured/?central-park-nyc"
+          image:"https://a.storyblok.com/f/55469/1170x728/686a5d2781/jp_00_tyo_1.jpeg/m/645x0/filters:format(webp)"
         },
         {
           id: "place-9",
           name: "Times Square",
-          image: "https://source.unsplash.com/featured/?times-square"
+          image:"https://plus.unsplash.com/premium_photo-1661954654458-c673671d4a08?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIweW9yayUyMGNpdHl8ZW58MHx8MHx8fDA%3D"
         }
       ],
       hotels: [
